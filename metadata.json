@@ -1,0 +1,6 @@
+{
+  "name": "Rajesh Kirana Store",
+  "description": "A professional and modern grocery e-commerce Progressive Web App (PWA) for Rajesh Kirana Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
